@@ -2,7 +2,7 @@
 # randomize-chosen
 Randomize selector for chosen.js plugin
 
-###How to use randomize-chosen.js
+### Usage
 
      $("#selector").randomize({
         item_count:2
